@@ -1,5 +1,6 @@
 {
     "about": "Hakkında",
+    "appname": "CCS24 Mobile {{version}}",
     "cacheexpirationtime": "Önbellek zaman aşımı (milisaniye)",
     "currentlanguage": "Geçerli dil",
     "deletesitefiles": "Bu siteden indirdiğiniz dosyaları silmek istediğinizden eminmisiniz?",

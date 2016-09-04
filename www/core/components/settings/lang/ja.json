@@ -1,5 +1,6 @@
 {
     "about": "本アプリについて",
+    "appname": "CCS24 Mobile {{version}}",
     "cacheexpirationtime": "キャッシュ有効期限（ミリ秒単位）",
     "currentlanguage": "現在の言語",
     "deletesitefiles": "本当にこのサイトからダウンロードしたファイルを消去しますか？",

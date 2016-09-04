@@ -1,5 +1,6 @@
 {
     "about": "אודות",
+    "appname": "CCS24 Mobile {{version}}",
     "cacheexpirationtime": "זמן תפוגה לזיכרון מטמון (באלפיות השניה)",
     "credits": "זכויות יוצרים",
     "currentlanguage": "שפה נוכחית",

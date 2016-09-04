@@ -1,5 +1,6 @@
 {
     "about": "关于",
+    "appname": "CCS24 Mobile {{version}}",
     "cacheexpirationtime": "缓存过期时间（毫秒）",
     "deletesitefiles": "您确定要删除从本站下载的文件？",
     "development": "开发",

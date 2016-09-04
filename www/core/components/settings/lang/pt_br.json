@@ -1,5 +1,6 @@
 {
     "about": "Sobre",
+    "appname": "CCS24 Mobile {{version}}",
     "cacheexpirationtime": "Tempo de expiração do cache (milisegundos)",
     "deletesitefiles": "Tem certeza que deseja deletar os arquivos baixados a partir deste site?",
     "development": "Desenvolvimento",

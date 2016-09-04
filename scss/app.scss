@@ -29,3 +29,36 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
   box-shadow: none;
   color: #fff;
 }
+
+
+//Change the top bars
+.bar-header { 
+	background-color: #5069A1; 
+}
+
+//Change the side menu elements: 
+ion-side-menu li .item { 
+	background-color: #313848; 
+	border-color: #4F5865; 
+	color: #BCC3CF; 
+} 
+
+ion-side-menu li.item { 
+	border-color: #4F5865; 
+} 
+
+ion-side-menu li.item.item-divider { 
+	background-color: #3E4755; 
+}
+
+//Courses list page: 
+.mm-site_mm_courses .mm-site_mm_courses .tabs-icon-left { 
+	background-color: #EBEFF8; 
+} 
+
+.mm-site_mm_courses section h2 span { 
+	font-weight: bold; 
+}
+
+//Upload the file containing the CSS code into your theme directory: theme/mytheme/mobileapp.css 
+//In Site administration -> Plugins -> Web Services -> Mobile

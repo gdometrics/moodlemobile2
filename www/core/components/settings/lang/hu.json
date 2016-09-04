@@ -1,5 +1,6 @@
 {
     "about": "Ismertetés",
+    "appname": "CCS24 Mobile {{version}}",
     "cacheexpirationtime": "Gyorsítótár lejárata (ms)",
     "currentlanguage": "Aktuális nyelv",
     "deletesitefiles": "Biztosan törli a portálról a letöltött fájlokat?",
